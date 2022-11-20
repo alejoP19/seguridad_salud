@@ -1,0 +1,508 @@
+
+
+.container-fluid{
+    background: rgb(39, 156, 101);
+     font-family:  Britannic Bold;
+     border-radius: 20px;
+   
+
+
+
+}
+.titulo{
+
+    margin-left: 20%;
+     margin-top:-9%; 
+     
+ 
+     font-size: 80px; 
+      font-family:Berlin Sans FB Demi;
+       color:rgb(6, 5, 5);
+ 
+}
+.imgSena{
+
+padding-top: 2%;
+     margin-left:1%;
+     width:10%;
+      height:10%; 
+}
+
+
+
+
+
+.dropbtn {
+margin-top: -8%;
+    background-color: #f85d0f;
+    color:rgb(6, 5, 5);
+    font-family: Cooper Black;
+margin-bottom: 1%;
+    padding: 15px;
+    font-size: 140%;
+    border-radius: 20%;
+    text-decoration-line: underline;
+    transition: .6s ease-out all;
+    
+  }
+  
+  .dropdown {
+ 
+
+ margin-left: 2%;
+    position: relative;
+    display: inline;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9b17d;
+    border-radius: 20px;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(224, 12, 104, 0.2);
+    z-index: 1;
+    font-family: Cooper Black;
+    font-size: 130%;
+   
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 18px 16px;
+    text-decoration: none;
+    display: block;
+    border-radius: 20px;
+    
+  }
+  
+  .dropdown-content a:hover {background-color: rgb(255, 230, 4);}
+  
+  .dropdown:hover .dropdown-content {display: inline-flex;}
+  
+  .dropdown:hover .dropbtn {background-color: #f3cb03;}
+
+.flex{
+padding: 2%;
+margin-top:3%;
+margin-left:2%; 
+ padding-bottom:5%;
+  padding-top:30px; 
+   background-color:rgb(0, 0, 0); 
+   border-radius:10px;
+   text-align: justify;
+
+
+}
+
+  .titsection{
+background-color:rgb(226, 238, 7);
+margin-right:30%; 
+margin-left:30%;
+ border-radius:10px;
+ text-align: center;
+ font-family: Cooper Black;
+ color:rgb(6, 5, 5);
+  }
+
+  
+  h2{
+    font-family: Cooper rgb(18, 147, 109);
+    color:rgb(225, 255, 241);;
+  }
+
+  .mensaje{
+    color:rgb(225, 255, 241);
+    text-align: justify;
+     padding-right:20px;
+      padding-left:20px;
+      padding-bottom:-5px;
+       padding-top:10px; 
+       font-family: Cooper rgb(18, 147, 109);
+        font-size: 19px;
+  }
+  h4{
+
+    color:rgb(226, 238, 7);
+  }
+
+  #carouselExampleSlidesOnly{
+    margin-top: 15%;
+    width: 80%;
+  
+      margin-left:8%;
+
+  }
+  
+ 
+  .carousel-inner{
+
+    border-radius:10px; border: 5%;
+    border-style: double;
+    border-color: #000000;
+  }
+
+  .imagen2{
+    border-radius:10px; border: 5%;
+    border-style: double;
+    border-color: #000000;
+    width: 195%;
+  margin-top: 30%;
+  margin-left: 24%;
+
+   
+  }
+ 
+
+  
+  iframe{
+    border-radius:10px; border: 5%;
+    border-style: double;
+    border-color: #000000;
+    margin-left:5%;
+    margin-top: 10%;
+    width:90%;
+    height: 170%;
+   
+    
+ 
+   
+     
+  }
+  .footer1{
+
+   
+color: rgb(255, 60, 0);
+background-color: black;
+font-size: 30px;
+font-family: Georgia;
+min-width: 100%;
+text-align: center;
+padding: 3%;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+padding-bottom: 3%;
+   
+  }
+
+
+
+
+
+  .containerheader {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    padding: 2%;
+   }
+  
+   .dropdownbtn2 {
+    margin-top: 1%;
+        background-color: #f85d0f;
+        color:rgb(6, 5, 5);
+        font-family: Cooper Black;
+    margin-bottom: 1%;
+        padding: 15px;
+        font-size: 140%;
+        border-radius: 20%;
+        text-decoration-line: underline;
+        transition: .6s ease-out all;
+        
+      }
+      
+      .dropdown2 {
+     
+    
+     margin-left: 2%;
+        position: relative;
+        display: inline;
+      }
+      
+      .dropdown-content2 {
+        display: none;
+        position: absolute;
+        background-color: #f9b17d;
+        border-radius: 20px;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(224, 12, 104, 0.2);
+        z-index: 1;
+        font-family: Cooper Black;
+        font-size: 130%;
+       
+      }
+      
+      .dropdown-content2 a {
+        color: black;
+        padding: 18px 16px;
+        text-decoration: none;
+        display: block;
+        border-radius: 20px;
+        
+      }
+      
+      .dropdown-content2 a:hover {background-color: rgb(255, 230, 4);}
+      
+      .dropdown2:hover .dropdown-content2 {display: inline-table;}
+      
+      .dropdown2:hover .btn {background-color: #f3cb03;}
+
+
+  .containername {
+   
+    max-width: 1200px;
+    margin-left: 35%;
+    margin-top: -3%;
+    font-size: 55px;
+    font-family: Georgia;
+    color: rgb(253, 56, 1);
+   padding-bottom: 3%;
+    
+  }
+  
+   .containerfoto {
+  
+    
+  margin-top: 0%;
+  background-color: rgb(0, 12, 28);
+  width: 431%;
+ 
+  margin-left: 0%;
+  
+  }
+  
+  .imagenperfil {
+    padding: 1%;
+    width:50%;
+    margin-left: 20%;
+  
+    border-radius: 10%;
+   
+  
+  
+  
+  }
+  
+  .containerLateral {
+  margin-top: 0%;
+  padding-bottom: 149%;
+    background-color: rgb(0, 0, 0);
+  color: rgb(249, 249, 249);
+   width: 107.7%;
+  
+  
+  
+  }
+  
+  
+  .titulolateral1 {
+  
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+  
+  }
+  
+  .titulolateralinfo1 {
+    padding-top: 30px;
+    margin-left: -7%;
+    padding: 3px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+   
+  }
+  
+  .titulolateral2 {
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+   
+  }
+  
+  .titulolateralinfo2 {
+    padding-top: 30px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+   
+  }
+  
+  
+  .titulolateral3 {
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+  ;
+  }
+  
+  .titulolateralinfo3 {
+  
+    padding-top: 30px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+    
+  }
+  
+  
+  
+  
+  
+  
+  .section {
+   padding: 10px;
+  background-color: rgb(229, 134, 75);
+  }
+  
+  
+  
+  
+  
+  
+  
+  .tituloperfil {
+    font-family: Georgia;
+    padding: 5px;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+  
+  }
+  
+  
+  .infoperfil {
+  
+    text-align: justify;
+    padding: 5px;
+    margin-left: 5%;
+    font-family: Georgia;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+   
+  }
+  .containerInfoPersonal{
+
+    margin-left: 35%;
+    width: 120%;
+  }
+  
+  .titulopersonal {
+    font-family: Georgia;
+    padding: 5px;
+    margin-top: 5%;
+    margin-right: 0%;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+
+    
+  
+  
+  }
+  
+  .infopersonal {
+    text-align:inherit;
+    padding: 20px;
+    margin-left: 0%;
+    font-family: Georgia;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+   
+  
+  }
+
+  
+  
+  .tituloedu {
+    font-family: Georgia;
+    padding: 20px;
+    margin-left: -3%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+  
+  }
+  
+ 
+
+
+
+
+  .infoedu {
+    margin-left: -0.5%;
+    border: 1px solid rgb(0, 12, 28);
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+    font-family: Georgia;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+  
+  
+  }
+  
+  .tituloexp {
+  
+    font-family: Georgia;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    
+  
+  }
+  
+  
+  .infoexp {
+    margin-left: -0.5%;
+    border: 1px solid rgb(0, 12, 28);
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+    font-family: Georgia;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+  
+  
+  }
+  
+  .infoexp2 {
+    margin-left: -0.5%;
+    border: 1px solid  rgb(0, 12, 28);
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+    font-family: Georgia;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+   
+  }
+  
+  .footer {
+  
+  
+  
+     background-color: rgb(0, 12, 28);
+     color: rgb(255, 60, 0);
+    font-size: 30px;
+    font-family: Georgia;
+    min-width: 100%;
+  text-align: center;
+  padding: 3%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-bottom: 3%;
+   
+  
+  
+  
+  }

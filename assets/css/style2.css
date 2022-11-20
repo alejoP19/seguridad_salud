@@ -1,0 +1,247 @@
+.containerheader {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-weight: bold;
+    background-color: rgb(47, 64, 67);
+    padding: 4%;
+   
+    
+  
+  
+  
+  }
+  
+  .containername {
+   
+    max-width: 1200px;
+    margin-left: 25%;
+    font-size: 40px;
+    font-family: Georgia;
+    color: rgb(249, 249, 249);
+    padding: 3px;
+    
+  }
+  
+   .containerfoto {
+  
+    
+  margin-top: 0%;
+ 
+  background-color: rgb(47, 64, 67);
+  width: 431%;
+ 
+  margin-left: 0%;
+  
+  }
+  
+  .imagenperfil {
+    padding: 1%;
+    width:45%;
+    margin-left: 20%;
+  
+    border-radius: 10%;
+   
+  
+  
+  
+  }
+  
+  .containerLateral {
+  margin-top: 0%;
+  padding-bottom: 358%;
+    background-color: rgb(6, 41, 91);
+  color: rgb(249, 249, 249);
+   width: 107.7%;
+  
+  
+  
+  }
+  
+  
+  .titulolateral1 {
+  
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+  
+  }
+  
+  .titulolateralinfo1 {
+    padding-top: 30px;
+    margin-left: -7%;
+    padding: 3px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+   
+  }
+  
+  .titulolateral2 {
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+   
+  }
+  
+  .titulolateralinfo2 {
+    padding-top: 30px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+   
+  }
+  
+  
+  .titulolateral3 {
+    font-size: 25px;
+    font-family: Georgia;
+    padding: 7px;
+    padding-top: 50px;
+  ;
+  }
+  
+  .titulolateralinfo3 {
+  
+    padding-top: 30px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Georgia;
+    
+  }
+  
+  
+  
+  
+  
+  
+  .section {
+   padding: 10px;
+  background-color: rgb(205, 205, 205);
+  }
+  
+  
+  
+  
+  
+  
+  
+  .tituloperfil {
+    font-family: Georgia;
+    padding: 20px;
+    margin-left: -3%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(39, 37, 37);
+    
+  
+  }
+  
+  
+  .infoperfil {
+  
+    text-align: justify;
+    padding: 20px;
+    margin-left: 0%;
+    font-family: Georgia;
+    font-size: 22px;
+   
+  }
+  
+  .titulopersonal {
+    font-family: Georgia;
+    padding: 20px;
+    margin-left: -3%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(39, 37, 37);
+  
+  
+  }
+  
+  .infopersonal {
+    text-align: justify;
+    padding: 20px;
+    margin-left: 0%;
+    font-family: Georgia;
+    font-size: 22px;
+  
+  }
+  
+  .tituloedu {
+    font-family: Georgia;
+    padding: 20px;
+    margin-left: -3%;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(39, 37, 37);
+    
+  
+  }
+  
+  .infoedu {
+    margin-left: -0.5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: justify;
+    padding: 20px;
+    font-family: Georgia;
+    font-size: 22px;
+    min-width: 100%;
+  
+  }
+  
+  .tituloexp {
+  
+    font-family: Georgia;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(39, 37, 37);
+    
+  
+  }
+  
+  
+  .infoexp {
+    margin-left: -0.5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+    font-family: Georgia;
+    font-size: 20px;
+  
+  
+  }
+  
+  .infoexp2 {
+    margin-left: -0.5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+    font-family: Georgia;
+    font-size: 20px;
+   
+  }
+  
+  .footer {
+  
+  
+  
+    background-color: rgb(47, 64, 67);
+    color: rgb(229, 232, 246);
+    font-size: 30px;
+    font-family: Georgia;
+    min-width: 100%;
+  
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-bottom: 3%;
+   
+  
+  
+  
+  }
